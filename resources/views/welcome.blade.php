@@ -8,7 +8,7 @@
                 <div class="panel-heading">Welcome</div>
 
                 <div class="panel-body">
-                    Welcome :p
+                    Welcome to site
                 </div>
             </div>
         </div>
