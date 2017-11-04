@@ -8,7 +8,9 @@
                 <div class="panel-heading">Welcome</div>
 
                 <div class="panel-body">
-                    Welcome :p :)
+                    Welcome here!
+                    <hr>
+                    bla blaaaaaaaa
                 </div>
             </div>
         </div>
