@@ -7,9 +7,7 @@
             <div class="panel panel-default">
                 <div class="panel-heading">Welcome</div>
 
-                <div class="panel-body">
-                    Welcome to site
-                </div>
+                
             </div>
         </div>
     </div>
